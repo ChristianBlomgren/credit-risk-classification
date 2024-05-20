@@ -12,7 +12,7 @@ This model scored a 100% on the predicted healthy loans and an 86% on the predic
 * Recall: This score shows the ratio of correctly predicted positives to all actual positives. 
 This model scored a 99% on correctly identifying actual healthy loans while also scoring a 91% on correctly identifying actual high-risk laons.
 
-*F1-Score: This score is the harmonic mean of both the precision and recall scores. It provides a balanced look at the two.
+* F1-Score: This score is the harmonic mean of both the precision and recall scores. It provides a balanced look at the two.
 The overall score for predicting healthy loans is 100% and the overall score for predicting high-risk loans is 88%.
 
 ## End Summary/Recommendation
